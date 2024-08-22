@@ -50,8 +50,8 @@ El diagrama estructural, se soporta en los componentes desarrollados en los ante
 4. Incluir el  HDL para le divisor  realizado en el ejercicio anterior, en la carpeta `src/divisor`  y, adicione los archivos e instanciar el bloque divisor.
 5. Diseñar el bloque restador, adicionar dicho bloque a la respectiva carpeta e instanciar el modulo en `alu.v`.
 6. Realizar el testbench del bloque alu.
-7. implementar el sistema completo en la FPGA remota
-8. hacer la documentación respectiva en el archivo README
+7. implementar el sistema completo en la FPGA 
+8. hacer la documentación respectiva
   
 
  
