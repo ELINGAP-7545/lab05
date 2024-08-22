@@ -1,4 +1,4 @@
-# lab05 : Unidad de suma, resta, multiplicación, división y visualización BCD
+# Entrega 1 : Unidad de suma, resta, multiplicación, división y visualización BCD
 ## Introducción
 
 
